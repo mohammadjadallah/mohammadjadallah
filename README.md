@@ -12,4 +12,4 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats-brundabharadwaj.vercel.app/api?username=mohammadjadallah">
+<img src="https://github-readme-stats-six-nu-22.vercel.app/api?username=mohammadjadallah">
